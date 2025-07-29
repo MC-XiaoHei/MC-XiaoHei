@@ -18,6 +18,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/syncthingnet/syncthingnet-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/syncthingnet/syncthingnet-icon.svg" alt="syncthing" width="42" height="42" /></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MC-XiaoHei&show_icons=true&locale=en" alt="MC-XiaoHei" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MC-XiaoHei&" alt="MC-XiaoHei" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=MC-XiaoHei&theme=default" alt="MC-XiaoHei" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MC-XiaoHei&show_icons=true&locale=en&layout=compact" alt="MC-XiaoHei" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MC-XiaoHei" alt="MC-XiaoHei" /></a></p>
