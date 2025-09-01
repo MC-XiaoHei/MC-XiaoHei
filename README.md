@@ -10,6 +10,6 @@
   <a target="_blank" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="markdown" width="42" height="42" /></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MC-XiaoHei&theme=default&show_icons=true&hide_border=false&count_private=true" alt="Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MC-XiaoHei&theme=default&hide_border=fals&count_private=truee" alt="Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MC-XiaoHei&theme=default&hide_border=fals&count_private=true" alt="Streak" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC-XiaoHei&theme=default&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="Top Langs" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MC-XiaoHei" alt="Trophy" /></a></p>
