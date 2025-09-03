@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm MC_XiaoHei</h1>
-<p>A Minecraft developer and a undergraduate student</p>
+<p>A Minecraft developer and an undergraduate student of Shandong Technology and Business University.</p>
 <h2>🚀 Languages I Use</h2>
 <p>
   <a target="_blank" href="https://www.scala-lang.org/index.html" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="42" height="42" /></a>
