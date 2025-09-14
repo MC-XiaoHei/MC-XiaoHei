@@ -4,6 +4,8 @@ A Minecraft developer and an undergraduate student of Shandong Technology and Bu
 
 I'm currently learning **Attention is all you need**.
 
+I'm also a member of [LeavesMC](https://github.com/LeavesMC) and currently participating in the [Leaves](https://github.com/LeavesMC/Leaves) project.
+
 ## 🚀 Languages I Use
 <p>
   <a target="_blank" href="https://www.scala-lang.org/index.html" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="42" height="42" /></a>
