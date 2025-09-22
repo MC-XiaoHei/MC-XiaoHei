@@ -2,7 +2,7 @@
 
 A Minecraft developer(plugin/server/mod) and an undergraduate student of **Shandong Technology and Business University**.
 
-I'm currently learning **Attention is all you need**.
+I'm currently learning **TimeCMA**.
 
 I'm also a member of [LeavesMC](https://github.com/LeavesMC) and currently participating in the [Leaves](https://github.com/LeavesMC/Leaves) project.
 
