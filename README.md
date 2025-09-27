@@ -16,7 +16,7 @@ I'm also a member of [LeavesMC](https://github.com/LeavesMC) and currently parti
   <a target="_blank" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="markdown" width="42" height="42" /></a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 My Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MC-XiaoHei&theme=default&show_icons=true&hide_border=false&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
