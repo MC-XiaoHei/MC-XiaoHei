@@ -6,6 +6,8 @@ I'm currently learning **S^2IP-LLM**.
 
 I'm also a member of [LeavesMC](https://github.com/LeavesMC) and currently participating in the [Leaves](https://github.com/LeavesMC/Leaves) project.
 
+My next project: [CrashCreateBroadcast](https://github.com/MC-XiaoHei/CrashCreateBroadcast). CCB!
+
 ## 🚀 Languages I Use
 <p>
   <a target="_blank" href="https://www.scala-lang.org/index.html" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="42" height="42" /></a>
