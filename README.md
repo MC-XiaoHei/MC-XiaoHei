@@ -1,6 +1,6 @@
 # Hi 👋, I'm MC_XiaoHei
 
-A Minecraft developer(plugin/server/mod) and an undergraduate student of **Shandong Technology and Business University**.
+A Minecraft developer(plugin/server) and an undergraduate student of **Shandong Technology and Business University**.
 
 I'm currently learning **S^2IP-LLM**.
 
