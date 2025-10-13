@@ -4,7 +4,7 @@ A Minecraft developer(plugin/server) and an undergraduate student of **Shandong 
 
 I'm also a member of [LeavesMC](https://github.com/LeavesMC) and currently participating in the [Leaves](https://github.com/LeavesMC/Leaves) project.
 
-I'm currently focusing on Time Series Forecasting, and reading TimeCMA/TimeMKG papers.
+I'm currently focusing on Time Series Forecasting.
 
 My next project: [CrashCreateBroadcast](https://github.com/MC-XiaoHei/CrashCreateBroadcast). CCB!
 
