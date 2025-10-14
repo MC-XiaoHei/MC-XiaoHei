@@ -20,7 +20,7 @@ My next project: [CrashCreateBroadcast](https://github.com/MC-XiaoHei/CrashCreat
 
 ## 📊 My Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MC-XiaoHei&theme=default&show_icons=true&hide_border=false&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MC-XiaoHei&theme=default&show_icons=true&hide_border=false&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MC_XiaoHei)
 
