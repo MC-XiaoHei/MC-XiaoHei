@@ -6,8 +6,6 @@ I'm also a member of [LeavesMC](https://github.com/LeavesMC) and currently parti
 
 I'm currently focusing on Time Series Forecasting, and preparing for IJCAI.
 
-My next project: [CrashCreateBroadcast](https://github.com/MC-XiaoHei/CrashCreateBroadcast). CCB!
-
 ## 🚀 Languages I Use
 <p>
   <a target="_blank" href="https://www.scala-lang.org/index.html" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="42" height="42" /></a>
