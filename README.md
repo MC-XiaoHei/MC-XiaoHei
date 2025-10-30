@@ -13,7 +13,7 @@ I'm currently focusing on Time Series Forecasting, and preparing for IJCAI 2025.
   <a target="_blank" href="https://www.java.com" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
   <a target="_blank" href="https://www.typescriptlang.org" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
   <a target="_blank" href="https://vuejs.org" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-  <a target="_blank" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="markdown" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.markdownlang.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="markdown" width="42" height="42" /></a>
 </p>
 
 ## 📊 My Stats
