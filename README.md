@@ -1,6 +1,6 @@
 # Hi 👋, I'm MC_XiaoHei
 
-A Minecraft developer(plugin/server) and an undergraduate student of **Shandong Technology and Business University**.
+A Minecraft developer(plugin/server) and an undergraduate student of [**Shandong Technology and Business University**](https://www.sdtbu.edu.cn/).
 
 I'm also a member of [LeavesMC](https://github.com/LeavesMC) and currently participating in the [Leaves](https://github.com/LeavesMC/Leaves) project.
 
