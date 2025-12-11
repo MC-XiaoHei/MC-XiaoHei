@@ -1,4 +1,4 @@
-# Hi 👋, I'm MC_XiaoHei
+# Hi, I'm MC_XiaoHei
 
 A Minecraft developer(plugin/server) and an undergraduate student of [**Shandong Technology and Business University**](https://www.sdtbu.edu.cn/).
 
