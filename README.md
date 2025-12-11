@@ -22,7 +22,7 @@ I'm currently focusing on Time Series Forecasting, and preparing for [IJCAI](htt
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MC_XiaoHei)
 
-![Streak(sometime may cannot load)](https://github-readme-streak-stats.herokuapp.com/?user=MC-XiaoHei&theme=default&hide_border=fals&count_private=true)
+![GitHub Streak(sometime may cannot load)](https://github-readme-streak-stats.herokuapp.com/?user=MC-XiaoHei&theme=default&hide_border=fals&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MC-XiaoHei&theme=default&show_icons=true&hide_border=false&layout=compact&count_private=true)
 
