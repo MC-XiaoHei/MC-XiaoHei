@@ -4,7 +4,7 @@ A Minecraft developer(plugin/server) and an undergraduate student of [**Shandong
 
 I'm also a member of [LeavesMC](https://github.com/LeavesMC) and currently participating in the [Leaves](https://github.com/LeavesMC/Leaves) project.
 
-I'm currently focusing on Time Series Forecasting, and preparing for [IJCAI](https://www.ijcai.org/) 2025.
+I'm currently focusing on Time Series Forecasting, and preparing for [IJCAI](https://www.ijcai.org/) 2026.
 
 ## 🚀 Languages I Use
 <p>
